@@ -8,4 +8,5 @@ Note-
 4. If you want to run the application multiple times, there is no need to delete earlier generated and uploaded files manually. The remove_files function deletes all earlier files.
 
 How to run the application?  
+---
 Just run the command 'python manage.py runserver' in the terminal.
